@@ -1,6 +1,5 @@
 # XSignals AI - Professional Crypto Analysis Toolkit
-
-Thank you for purchasing XSignals AI! This guide will get you up and running in minutes.
+⭐ Star this repo if you find it useful!
 
 ## Quick Start (2 Minutes)
 
