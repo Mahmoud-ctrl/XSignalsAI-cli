@@ -19,7 +19,7 @@ Thank you for purchasing XSignals AI! This guide will get you up and running in 
 
 ---
 
-## 🔑 Getting API Keys (Required)
+## Getting API Keys (Required)
 
 ### Binance API (Free & Required)
 1. Go to https://www.binance.com/en/my/settings/api-management
@@ -38,7 +38,7 @@ Thank you for purchasing XSignals AI! This guide will get you up and running in 
 
 ---
 
-## 📖 Usage Examples
+## Usage Examples
 
 ### Analyze a Single Coin
 ```bash
@@ -74,7 +74,7 @@ python main.py --symbol SOLUSDT --timeframes 15m 1h 4h
 
 ---
 
-## 🎯 Understanding the Output
+## Understanding the Output
 
 ### Timeframe Signals
 - **STRONG BUY** - Very bullish conditions (confidence >80%)
@@ -112,7 +112,7 @@ python main.py --symbol SOLUSDT --timeframes 15m 1h 4h
 
 ---
 
-## ⚙️ Configuration
+## Configuration
 
 ### Edit `.env` File
 ```
@@ -135,7 +135,7 @@ Edit `main.py` line 36-43 or specify via command line
 
 ---
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### "Python is not installed"
 - Download from https://python.org
@@ -161,7 +161,7 @@ Edit `main.py` line 36-43 or specify via command line
 
 ---
 
-## 📊 Advanced Usage
+## Advanced Usage
 
 ### Custom Indicator Analysis
 The `indicators.py` file contains 60+ indicators. You can:
@@ -183,25 +183,25 @@ result = bot.run_comprehensive_analysis("BTCUSDT")
 
 ---
 
-## 📜 License & Legal
+## License & Legal
 
 ### License
 This software is licensed for **personal use only**. You may:
-- ✅ Use for your own trading analysis
-- ✅ Modify for personal use
-- ✅ Run on multiple personal computers
+- Use for your own trading analysis
+- Modify for personal use
+- Run on multiple personal computers
 
 You may NOT:
-- ❌ Resell or redistribute
-- ❌ Use commercially without permission
-- ❌ Claim as your own work
+- Resell or redistribute
+- Use commercially without permission
+- Claim as your own work
 
 ### Disclaimer
 **TRADING RISK WARNING:** Trading cryptocurrencies carries substantial risk of loss. This software is for educational purposes only and is NOT financial advice. Past performance does not guarantee future results. You are solely responsible for your trading decisions. The creators are not liable for any losses.
 
 ---
 
-## 🌟 Pro Tips
+## Pro Tips
 
 1. **Start with longer timeframes** (4h, 1d) for more reliable signals
 2. **Wait for alignment** across multiple timeframes for best trades
@@ -212,13 +212,5 @@ You may NOT:
 
 ---
 
-## 🎓 Learning Resources
-
-### Useful Links
-- TradingView (chart visualization)
-- CoinMarketCap (market data)
-- Glassnode (on-chain analytics)
-
----
 
 **Happy Trading! Remember: The goal is not to predict the future, but to make more informed decisions. 📈**
